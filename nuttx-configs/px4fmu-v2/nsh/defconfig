@@ -543,6 +543,7 @@ CONFIG_UART7_SERIAL_CONSOLE=y
 # CONFIG_UART8_SERIAL_CONSOLE is not set
 # CONFIG_NO_SERIAL_CONSOLE is not set
 
+
 # James Adds this can config stuffs
 # CAN configuration
 CONFIG_STM32_CAN=y
